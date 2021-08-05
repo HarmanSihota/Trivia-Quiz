@@ -1,7 +1,5 @@
 /*
  * Author: Harman Sihota
- * Student Number: 99773566
-
  * Purpose: To quiz the user on trivia questions and give them a score for each correct answer. The all time highest score achieved
    by any user can also be seen.
 */
